@@ -71,7 +71,7 @@ Below is a snapshot of the Hyderabad dataset:<br>
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <br>
-After getting the latitudes and longitudes the values will be like:<br>
+After getting the latitudes and longitudes using Google maps API the values will be like:<br>
 <img src="Screenshot from 2020-04-08 20-34-37.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
